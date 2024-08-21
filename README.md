@@ -32,7 +32,7 @@ The application is structured around a simple event-driven model, where user inp
 - **Operation Execution**: Upon selecting an operation (e.g., `+`, `-`), the calculator processes the current input and stores the result, ready for the next input.
 - **Result Handling**: When the equal button (`=`) is pressed, the final result of the operations is displayed.
 
-The project is structured to allow multiple operations in a sequence, such as `5 + 3 * 2`, which will yield the correct result by applying the operations in the order they are input.
+The project is structured to allow multiple operations in a sequence, such as `3 * 7 * 2`, which will yield the correct result by applying the operations in the order they are input.
 
 ## Conclusion
 
